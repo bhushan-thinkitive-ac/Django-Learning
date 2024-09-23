@@ -1,0 +1,15 @@
+1] Django Installation and Project Creation: 
+    Started learning django and installed it on the machine. Created one project and app.
+    Migrated the project with all dependencies.
+2] Django Views:
+    Explored about Django views and httpresponse, httprequests. 
+    Created a function/view which takes request and respond on screen using HTTP.
+3] Django URL's:
+    Explored about how to route the views and connection between django project and django app.
+    Created URL's for the views and connected app with the project.
+4] Django Templates:
+    Explored about Django templates and added on template. 
+    Created a HTML file and configured it with the django app using loader function and templates.
+5] Django Models:
+    Explored about purpose of models in django. Created one model called person. 
+    Explored about models.Model and fields in model. Learned about reading the sqlite data in terminal 
