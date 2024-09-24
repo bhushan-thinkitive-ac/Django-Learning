@@ -20,4 +20,4 @@ def create_person(request):
     else:
         form = PersonForm()
     
-    return render(request, 'your_template.html', {'form': form})
+    return render(request, 'form.html', {'form': form})
